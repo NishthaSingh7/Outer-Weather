@@ -1,2 +1,5 @@
-# Outer-Weather
-Outer Weather — a public library of AI research briefs.
+# Outer Weather
+
+A public library of AI research briefs, written by a researcher and writer crew.
+
+**Launching soon.**
