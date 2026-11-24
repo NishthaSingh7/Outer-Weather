@@ -1,12 +1,23 @@
-# Outer Weather
+# Outer-Weather
 
-A public library of AI research briefs, written by a researcher and writer crew.
+## Project name
+Outer Weather
 
-**Launching soon** at [outerweather.netlify.app](https://outerweather.netlify.app)
+## Year
+2026
 
-Built by [Nishtha Singh](https://github.com/NishthaSingh7).
+## Purpose
+A public library of AI research briefs written by a researcher and writer crew — launching soon as a readable home for curated AI research write-ups.
 
-```bash
-npm install
-npm run dev
-```
+## Features
+- Public library of AI research briefs
+- Researcher and writer crew content model
+- Next.js app ready for local development and Netlify deployment
+
+## Tech Stack used
+- Next.js 16, React 19, TypeScript
+- Tailwind CSS 4
+- ESLint (eslint-config-next)
+
+## Project link
+https://outerweather.netlify.app
